@@ -1,0 +1,162 @@
+.nav-link{
+    color: beige !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.conferecia{
+    margin-top: 7px !important;
+}
+.elementos-barra{
+    display: flex !important;
+    margin: 10px !important;
+    padding: 10px !important;
+    color: #949390 !important;
+    text-decoration: none !important;
+}
+.elementos-barra-1{
+    display: flex !important;
+    margin: 10px !important;
+    padding: 10px !important;
+    color:rgb(253, 254, 255) !important;
+    text-decoration: none !important;
+}
+.elementos-barra-5{
+    display: flex !important;
+    margin: 10px !important;
+    padding: 10px !important;
+    color: #399B5A !important;
+    text-decoration: none !important;
+}
+.navbar navbar-light bg-secondary{
+    background-color: rgba(121, 115, 115, 0.863) !important;
+
+}
+.bg-gricesito{
+    background-color: #353A40;
+}
+.nav-item{
+    color: #29A744 !important;
+}
+.btn-success-1{
+    background-color: #29A744 !important;
+    color: white !important;
+
+}
+.conoce-or{
+    font-size: 0.6rem !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter !important;
+    padding-top: 0.7rem !important;
+    padding-bottom: 0% !important;
+    margin: 0% !important;
+    
+}
+.Oradores{
+    font-size: 2rem !important;
+    font-weight: bold !important;
+    margin: 0% !important;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0% !important;
+}
+
+
+.container-cards{
+    display: flex;
+    flex-flow: wrap;
+
+    margin: 25px 200px !important;
+    padding: 25px !important;
+}
+.javareact{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    
+}
+.card-tit{
+    font-size: 1rem !important;
+}
+.card-text-col{
+    font-size: 0.7rem !important;
+}
+.filtro{
+    filter: brightness(0.4) !important;
+}
+.Texto-carru{
+    color: white !important;
+    text-align: right !important;
+    white-space: nowrap !important;
+    margin-bottom: 30px !important;
+    
+        
+}
+.tarjeta{
+    display: flex !important;
+    flex-flow: wrap !important;
+    margin: 0px 200px !important;
+    padding-bottom: 15px !important;
+}
+.card-body-5{
+    background-color: #353A40 !important;
+    color: white;
+
+
+}
+.img-card{
+    max-height: 27.5rem !important;
+    max-width: 39.5rem !important;
+    margin-bottom: 15px !important;
+    border-right: 3px !important;
+}
+.boton-card{
+    color: white !important;
+}
+.card-title-h{
+    font-size: 1.5rem !important;
+}
+.card-text-h{
+    font-size: 0.76rem !important;
+}
+.footer{
+    font-size: medium !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.btn-verde{
+    background-color: #96C93E !important;
+    color: white !important;
+    border: none !important;
+    margin-bottom: 1rem !important ;
+    padding: 0.5rem;
+
+}
+.Oradores{
+    font-size: 2rem !important;
+    padding-bottom: 0.5rem !important;
+    
+}
+.convi{
+    font-size: 0.8rem !important;
+    padding-top: 1.5rem !important;
+    padding-bottom: 0% !important;
+    margin: 0% !important;
+
+}
+
+.bg-footer{
+    background-color: #1C3846 !important;
+}
+.navbar-expand-lg{
+    display: flex !important;
+    justify-content:center !important;
+      
+}
+.nav-link{
+    margin: 0rem 1.5rem !important;
+}
+.sub-form{
+    font-size: 0.7rem !important;
+    color: #949390 !important;
+
+}
